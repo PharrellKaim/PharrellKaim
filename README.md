@@ -39,3 +39,5 @@
 ![PharrellKaim's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PharrellKaim&theme=vue-dark&hide_border=true)
 <br>
 ![PharrellKaim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PharrellKaim&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<br>
+<figure><embed src="https://wakatime.com/share/@018b2d5d-dcc8-469c-a200-ac56deb2ad7d/40fc77e5-f845-4b6e-a2ac-1587764605bd.svg"></embed></figure>
