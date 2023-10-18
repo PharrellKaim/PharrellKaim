@@ -37,3 +37,5 @@
 
 ### :fire: My Stats :
 ![PharrellKaim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PharrellKaim&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<br>
+<figure><embed src="https://wakatime.com/share/@018b2d5d-dcc8-469c-a200-ac56deb2ad7d/12e5a4b6-c8a8-4664-9989-79b8c4cb61c1.svg"></embed></figure>
