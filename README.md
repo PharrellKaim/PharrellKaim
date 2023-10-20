@@ -1,7 +1,9 @@
 # Hi there 👋
 
-
-<div id="badges">
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/pharrell-kaim-091a6a22a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -9,7 +11,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
+<div id="profileViews" align="center">
+  <img src="https://komarev.com/ghpvc/?username=pharrellkaim&style=flat-square&color=blue" alt=""/>
+</div>
 
 ## A little bit about Me
 🎓  I'm currently working for Garmin Würzburg GmbH as an Trainee for Application development. I will graduate in July 2024.
