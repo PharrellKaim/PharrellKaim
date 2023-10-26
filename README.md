@@ -71,6 +71,3 @@
 ![PharrellKaim's Stats](https://github-readme-stats.vercel.app/api?username=PharrellKaim&theme=react&show_icons=true&hide_border=true&count_private=false)
 ![PharrellKaim's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PharrellKaim&theme=react&hide_border=true)
 ![PharrellKaim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PharrellKaim&theme=react&show_icons=true&hide_border=true&layout=compact)
-
-
-
