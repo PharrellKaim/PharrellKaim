@@ -61,12 +61,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="IntelliJ" **alt="IntelliJ" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" **alt="Apple" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" **alt="Windows" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
-</div>
-
-
-<script src="https://gist.github.com/PharrellKaim/23986751bc08b9377471946e20a38725.js"></script>
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="
+  
 ### :fire: My Stats :
 ![PharrellKaim's Stats](https://github-readme-stats.vercel.app/api?username=PharrellKaim&theme=react&show_icons=true&hide_border=true&count_private=false)
 ![PharrellKaim's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PharrellKaim&theme=react&hide_border=true)
