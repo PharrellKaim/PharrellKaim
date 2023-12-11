@@ -37,6 +37,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" **alt="Typescript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" **alt="Rust" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="JQuery" alt="JQuery" width="40" height="40"/>&nbsp;
@@ -56,7 +57,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" **alt="Grafana" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" **alt="npm" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" **alt="vim" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" **alt="vim" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" **alt="VisualStudio" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VisualStudioCode" **alt="VisualStudioCode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="IntelliJ" **alt="IntelliJ" width="40" height="40"/>
