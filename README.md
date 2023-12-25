@@ -17,6 +17,7 @@
 
 ## A little bit about Me
 🎓  I'm currently working for Garmin Würzburg GmbH as an Trainee for Application development. I will graduate in July 2024.
+
 🌱  I'm currently working to improve my Java skills. <br/>
 👨‍💻  My favorite disciplines are Webdevelopment and challenge new algorithms. <br/>
 ✍️  In my free time, I enjoy hiking, reading and spending time with family. <br/>
