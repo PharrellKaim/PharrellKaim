@@ -14,6 +14,7 @@
 <div id="profileViews" align="center">
   <img src="https://komarev.com/ghpvc/?username=pharrellkaim&style=flat-square&color=blue" alt=""/>
 </div>
+
 ## A little bit about Me
 🎓  I'm currently working for Garmin Würzburg GmbH as an Trainee for Application development. I will graduate in July 2024.
 🌱  I'm currently working to improve my Java skills. <br/>
