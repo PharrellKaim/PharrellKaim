@@ -24,11 +24,13 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   </p>
+</div>
   <br/>
   
+![PharrellKaim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PharrellKaim&theme=react&show_icons=true&hide_border=true&layout=compact)
+
 ### :fire: My Stats :
 ![PharrellKaim's Stats](https://github-readme-stats.vercel.app/api?username=PharrellKaim&theme=react&show_icons=true&hide_border=true&count_private=false)
-![PharrellKaim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PharrellKaim&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 ### 🎓 Projects:
 <div align="center">
