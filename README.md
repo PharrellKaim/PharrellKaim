@@ -50,3 +50,11 @@
     <a href="https://hobby-connect.de">Website</a>
   </p>
 </div>
+<br>
+<br>
+<div align="center">
+  <img src="https://github.com/PharrellKaim/TypeScriptTodo/blob/main/images/webViewApp.png" alt="logo" height="70"/>
+  <h3>ToDo App</h3>
+  <p>ToDo App in Typescript for training </p>
+  <a href="https://github.com/PharrellKaim/TypeScriptTodo">Git-Hub</a>
+</div>
