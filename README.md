@@ -29,33 +29,3 @@
   <br/>
   
 ![PharrellKaim's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PharrellKaim&theme=react&show_icons=true&hide_border=true&layout=compact)
-
-### :fire: My Stats :
-![PharrellKaim's Stats](https://github-readme-stats.vercel.app/api?username=PharrellKaim&theme=react&show_icons=true&hide_border=true&count_private=false)
-
-### 🎓 Projects:
-<div align="center">
-  <a href="https://github.com/HobbyConnect">
-    <img src="https://hobby-connect.de/logo.svg" alt="Logo" height="70">
-  </a>
-<h3 align="center">HobbyConnect</h3>
-
-  <p align="center">
-    Our mission is to make the world a better place for your hobbies
-    <br />
-    <br />
-    <a href="https://github.com/HobbyConnect">Git-Hub</a>
-    .
-    <a href="https://github.com/HobbyConnect/hcMobile/releases">Download Prerelease APK</a>
-    ·
-    <a href="https://hobby-connect.de">Website</a>
-  </p>
-</div>
-<br>
-<br>
-<div align="center">
-  <img src="https://github.com/PharrellKaim/TypeScriptTodo/blob/main/images/webViewApp.png" alt="logo" height="70"/>
-  <h3>ToDo App</h3>
-  <p>ToDo App in Typescript for training </p>
-  <a href="https://github.com/PharrellKaim/TypeScriptTodo">Git-Hub</a>
-</div>
