@@ -1,13 +1,11 @@
-# Pharrell Kaim
-
-## A little bit about Me
-🏢  I'm currently working as System Engineer for System Vertrieb Alexander GmbH<br/>
-🎓  I have completed an apprenticeship as an IT Specialist at Garmin Würzburg GmbH<br/>
-🌱  I'm currently working to improve my Java skills. <br/>
-👨‍💻  My favorite disciplines are Webdevelopment and challenge new algorithms. <br/>
-✍️  In my free time, I enjoy hiking, reading and spending time with family. <br/>
-✉️  You can drop me an email at pharrellkaim2@gmail.com <br/>
-📄  Check my other Repositories to get to know me a little better. <br/>
+## Hey, nice to see you here!👋
+Hi, I’m **Pharrell Kaim**, 20 years old and based in the beautiful city of Würzburg. I’m currently working as a **System Engineer at System Vertrieb Alexander GmbH**, where I focus on building reliable and scalable platforms.
+<br/>
+<br/>
+When I’m not at work, you’ll probably find me at the gym, out hiking, or with a good book in hand. I also love writing code and exploring new technologies to create high-availability, sustainable solutions.
+<br/>
+<br/>
+Feel free to reach out via pharrellkaim2@gmail.com — and don’t forget to check out my other repositories! 🚀
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
