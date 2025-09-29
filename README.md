@@ -34,7 +34,7 @@ Feel free to reach out via pharrellkaim2@gmail.com — and don’t forget to che
 <table style="width:100%; border-collapse: collapse; margin-bottom: 24px;">
     <tr style="box-shadow: 0 4px 6px -1px rgba(0,0,0,.1), 0 2px 4px -2px rgba(0,0,0,.1);">
     <td style="width: 200px; vertical-align: middle; text-align: center; height:150px;">
-      <img src="https://github.com/PharrellKaim/rusty-clock/blob/main/rusty-clock/icon.png" height="120" alt="spring-postman-request-generator Logo">
+      <img src="https://github.com/PharrellKaim/rusty-clock/blob/main/rusty-clock/assets/icon.png" height="120" alt="spring-postman-request-generator Logo">
     </td>
     <td style="width: 800px; padding-left: 12px;">
       <b style="font-size: 30px;">🕒 Rusty-Clock </b><br>
