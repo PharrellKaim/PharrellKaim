@@ -1,5 +1,5 @@
 ## Hey, nice to see you here!👋
-Hi, I’m **Pharrell Kaim**, 20 years old and based in the beautiful city of Würzburg. I’m currently working as a **System Engineer at System Vertrieb Alexander GmbH**, where I focus on building reliable and scalable platforms.
+Hi, I’m **Pharrell Kaim**, 21 years old and based in the beautiful city of Würzburg. I’m currently working as a **System Engineer at System Vertrieb Alexander GmbH**, where I focus on building reliable and scalable platforms.
 <br/>
 <br/>
 When I’m not at work, you’ll probably find me at the gym, out hiking, or with a good book in hand. I also love writing code and exploring new technologies to create high-availability, sustainable solutions.
